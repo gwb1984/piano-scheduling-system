@@ -1,0 +1,15 @@
+{
+  "name": "piano-scheduling-system",
+  "version": "1.0.0",
+  "description": "A piano lesson scheduling system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5"
+  }
+}
